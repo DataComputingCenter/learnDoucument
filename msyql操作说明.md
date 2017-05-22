@@ -18,7 +18,7 @@ net start mysql
 ```
 net stop mysql
 ```
-## 导入数据库
+# 导入数据库
  登陆数据库：
 ```
  mysql -h localhost -uroot -p
